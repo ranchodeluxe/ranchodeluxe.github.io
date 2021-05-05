@@ -1,6 +1,6 @@
 #### Projects and Contributions
 
-0. [cityenergy](https://github.com/cityenergyproject/dc): A single-page Backbone application that allows users to visualize the energy efficiency of buildings in major cities. I profiled the existing application and was able to uncovered memory leaks, zombie views and extraneous partial template renderings. See my commits [over here](https://github.com/cityenergyproject/dc/commits?author=ranchodeluxe)
+0. [cityenergy](https://github.com/cityenergyproject/dc): A single-page Backbone application that allows users to visualize the energy efficiency of buildings in major cities. I profiled the existing application and was able to uncovered memory leaks, zombie views and extraneous partial template renderings.
 
 0. [osm-export-ops](https://github.com/ranchodeluxe/osm-export-ops): An Ansible provisioner for the [OSM Export](https://github.com/hotosm/osm-export-tool2/blob/master/README.md) project that sets up a development environment with Vagrant. I [cleaned this up and modified it](https://github.com/AmericanRedCross/osm-export-ops) for a Vagrentless provisioner that builds the OSM Export tool required for the [Portable Open Street Map](https://github.com/AmericanRedCross/posm) stack ( which is a cool project you should definitely check out )
 
