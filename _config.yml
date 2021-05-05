@@ -1,0 +1,8 @@
+title: Social Coding
+description: Presentations, Projects, Workshops and Stuffs
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
